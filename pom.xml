@@ -5,7 +5,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter</artifactId>
-            <version>2.7.5</version> <!-- Latest: 2.7.9 -->
+            <version>2.7.18</version> <!-- Latest: 2.7.9 -->
         </dependency>
         <dependency>
             <groupId>org.apache.commons</groupId>
@@ -35,7 +35,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-core</artifactId>
-            <version>5.6.3.Final</version> <!-- Latest: 5.6.15.Final -->
+            <version>5.6.15.Final</version> <!-- Latest: 5.6.15.Final -->
         </dependency>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
