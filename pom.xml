@@ -15,7 +15,7 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>31.0.1-jre</version> <!-- Latest: 31.1-jre -->
+            <version>32.0.0-android</version> <!-- Latest: 31.1-jre -->
         </dependency>
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
