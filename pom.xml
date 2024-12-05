@@ -30,7 +30,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version> <!-- Latest: 4.13.2 -->
+            <version>4.13.1</version> <!-- Latest: 4.13.2 -->
         </dependency>
         <dependency>
             <groupId>org.hibernate</groupId>
