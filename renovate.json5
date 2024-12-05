@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "github>rotmg-app-test/renovate-config-test:default.json5"
+  ]
+}
